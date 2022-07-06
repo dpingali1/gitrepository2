@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Git World new develop branch sonar-artifact</h2>
+<h2>Hello Git World new develop branch pipeline</h2>
 </body>
 </html>
